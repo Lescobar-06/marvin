@@ -33,6 +33,7 @@ div#foto img {
     /* rotate horizontally */
     transform: rotate(180deg);
     filter: blur(2px);
+    width: 100%;
 }
 
 main#root:hover div#foto img {
